@@ -1,0 +1,185 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Notices-Duyurular 1.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-06 21:10+0300\n"
+"PO-Revision-Date: 2015-04-21 14:31+0200\n"
+"Last-Translator: Samet ATABAŞ <sametatabasch@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;_x;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/class/GB_Notices.php:249
+msgid "Notice mark as read successfully"
+msgstr ""
+
+#: ../notices-duyurular.php:101 ../notices-duyurular.php:102
+msgid "Notice"
+msgstr ""
+
+#: ../notices-duyurular.php:103 ../notices-duyurular.php:106
+msgid "New Notice"
+msgstr ""
+
+#: ../notices-duyurular.php:104
+msgid "Add New Notice"
+msgstr ""
+
+#: ../notices-duyurular.php:105
+msgid "Edit Notice"
+msgstr ""
+
+#: ../notices-duyurular.php:107
+msgid "All Notice"
+msgstr ""
+
+#: ../notices-duyurular.php:108
+msgid "View Notice"
+msgstr ""
+
+#: ../notices-duyurular.php:109
+msgid "Search Notice"
+msgstr ""
+
+#: ../notices-duyurular.php:110
+msgid "Notice Not Found"
+msgstr ""
+
+#: ../notices-duyurular.php:111
+msgid "Notice Not Found In Trash"
+msgstr ""
+
+#: ../notices-duyurular.php:113
+msgid "Notices"
+msgstr ""
+
+#: ../notices-duyurular.php:131
+msgid "Notice Settings"
+msgstr ""
+
+#: ../notices-duyurular.php:280
+msgid ""
+"If you do not want to see again this notice,click &#34;do not show "
+"again&#34;."
+msgstr ""
+
+#: ../notices-duyurular.php:281
+msgid "Do not show again"
+msgstr ""
+
+#: ../notices-duyurular.php:282
+msgid "Close"
+msgstr ""
+
+#: ../notices-duyurular.php:283
+msgid ""
+"if you close notices with click background, you see notices again and again. "
+"İf you dont want see notices again, close notices with close button."
+msgstr ""
+
+#: ../views/metabox.php:6
+msgid "Who can see :"
+msgstr ""
+
+#: ../views/metabox.php:9
+msgid "Everyone"
+msgstr ""
+
+#: ../views/metabox.php:11
+msgid "Only User"
+msgstr ""
+
+#: ../views/metabox.php:15
+msgid "Display Mode :"
+msgstr ""
+
+#: ../views/metabox.php:18
+msgid "Window"
+msgstr ""
+
+#: ../views/metabox.php:20
+msgid "Bar"
+msgstr ""
+
+#: ../views/metabox.php:25
+msgid "Last display date :"
+msgstr ""
+
+#: ../views/metabox.php:29
+msgid "Click for select date"
+msgstr ""
+
+#: ../views/metabox.php:51
+msgid "Title Align :"
+msgstr ""
+
+#: ../views/metabox.php:53
+msgid "Left"
+msgstr ""
+
+#: ../views/metabox.php:54
+msgid "Center"
+msgstr ""
+
+#: ../views/metabox.php:55
+msgid "Right"
+msgstr ""
+
+#: ../views/metabox.php:60
+msgid "Type :"
+msgstr ""
+
+#: ../views/metabox.php:63
+msgid "White"
+msgstr ""
+
+#: ../views/metabox.php:67
+msgid "Red"
+msgstr ""
+
+#: ../views/metabox.php:71
+msgid "Blue"
+msgstr ""
+
+#: ../views/metabox.php:75
+msgid "Green"
+msgstr ""
+
+#: ../views/metabox.php:80
+msgid "No Border :"
+msgstr ""
+
+#: ../views/metabox.php:84
+msgid "Size :"
+msgstr ""
+
+#: ../views/metabox.php:86
+msgid "xLarge"
+msgstr ""
+
+#: ../views/metabox.php:87
+msgid "Large"
+msgstr ""
+
+#: ../views/metabox.php:88
+msgid "Medium"
+msgstr ""
+
+#: ../views/metabox.php:89
+msgid "Small"
+msgstr ""
+
+#: ../views/metabox.php:93
+msgid "Add time limit"
+msgstr ""
+
+#: ../views/metabox.php:99 ../views/metabox.php:107
+msgid "Display Time :"
+msgstr ""
